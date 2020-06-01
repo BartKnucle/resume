@@ -41,70 +41,72 @@ Feel free to clone my repositories to check my work.
 * Linux server 
   * Ubuntu :star::star::star:
   * Debian :star::star::star:
-  * Suse
+  * Suse :star:
 * Windows server
-  * From NT4 to 2016 server
+  * From NT4 to 2016 server :star::star::star:
 * Hypervisors
-  * ESXI
-  * Hyper-V
-  * KVM
+  * ESXI :star::star:
+  * Hyper-V :star:
+  * KVM :star::star:
 * Containerization
-  * Docker
+  * Docker :star::star::star:
 * Scripting
-  * Powershell
-  * bash
-  * python
+  * Powershell :star::star:
+  * bash :star::star:
+  * python :star:
 * Directories
-  * Active directory
-  * Open LDAP
+  * Active directory :star::star::star:
+  * Open LDAP :star::star:
 * Configuration managment
-  * SCCM
-  * Ansible
+  * SCCM :star::star::star:
+  * Ansible :star::star::star:
 
 ---
 
 ## Software developpement
 
 * Javascript
-  * NodeJS
-  * ECMAScript
-  * Typescript
+  * NodeJS :star::star::star:
+  * ECMAScript :star::star::star:
+  * Typescript :star:
 
-* HTML5
+* HTML5 :star::star:
 
-* C#
+* VueJS :star::star::star:
+
+* C# :star:
 
 * Git
-  * Github
-  * Gitlab
-    * CI/CD
+  * Github :star::star::star:
+  * Gitlab :star::star::star:
+    * CI/CD :star::star::star:
 
 ---
 
 ## Network administration
 
 * DNS
-  * Windows DNS
-  * Bind9
+  * Windows DNS :star::star::star:
+  * Bind9 :star::star:
 * Dhcp
-  * dhcp3
-  * Windows DHCP
-* VLAN managment
-* Routing
+  * dhcp3 :star::star:
+  * Windows DHCP :star::star::star:
+* VLAN managment :star:
+* Routing :star::star:
 
 ---
 
  ## Database administration
 
- * MSSQL
- * CouchDB
- * PostgreSQL
- * MySQL
- * Oracle
+ * MSSQL :star::star:
+ * CouchDB :star::star:
+ * PostgreSQL :star::star:
+ * MySQL :star:
+ * Oracle :star:
 
 ---
 
  ## Misc
 
- * Managment
- * English
+ * Managment :star::star::star:
+ * English :star::star::star:
