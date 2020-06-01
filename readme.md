@@ -4,7 +4,7 @@
 
 ## How to
 
-All my skills are rated with one to three :star: depending how I consider managing it.
+All my skills are rated with one to three :star: depending on skill level.
 
 ---
 
@@ -20,18 +20,18 @@ Location: **Ardèche (07), France**
 
 ## Description
 
-IT engineer since 1999, I managed to deliver integrated systems since then.
-I worked for several european companies as **system administrator, software architect, network administrator, database administrator and IT manager.**
+IT engineer since 1999, Delivered integrated systems since then.
+Worked for several european companies as **system administrator, software architect, network administrator, database administrator and IT manager.**
 
 Feel free to clone my repositories to check my work.
 
 ----
 
-## Last projects
+## Lastest projects
 
-* Developpement of a open source configuration managment solution on NodeJS using DevOPS integration in gitlab as infrastructure. (Alpha stage)
+* Developpement of an open source configuration management solution on NodeJS using DevOPS integration in gitlab as infrastructure. (Alpha stage.)
 * Deployement of a SCCM infrastructure to manage 500 servers, 3500 workstations on 62 sites.
-* Replacing a company infrastructure with DevOPS techs.
+* Replaced a company infrastructure with DevOPS techs.
 
 ---
 
@@ -57,7 +57,7 @@ Feel free to clone my repositories to check my work.
 * Directories
   * Active directory :star::star::star:
   * Open LDAP :star::star:
-* Configuration managment
+* Configuration management
   * SCCM :star::star::star:
   * Ansible :star::star::star:
 
@@ -91,7 +91,7 @@ Feel free to clone my repositories to check my work.
 * Dhcp
   * dhcp3 :star::star:
   * Windows DHCP :star::star::star:
-* VLAN managment :star:
+* VLAN management :star:
 * Routing :star::star:
 
 ---
@@ -108,5 +108,5 @@ Feel free to clone my repositories to check my work.
 
  ## Misc
 
- * Managment :star::star::star:
+ * Management :star::star::star:
  * English :star::star::star:
