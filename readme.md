@@ -21,7 +21,7 @@ Location: **Ardèche (07), France**
 ## Description
 
 IT engineer since 1999, I managed to deliver integrated systems since then.
-I worked for several european companies as **systeme administrator, software architect, network administrator, database administrator and IT manager.**
+I worked for several european companies as **system administrator, software architect, network administrator, database administrator and IT manager.**
 
 Feel free to clone my repositories to check my work.
 
