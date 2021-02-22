@@ -35,6 +35,10 @@ Feel free to clone my repositories to check my work.
 
 ---
 
+## Game Developpement
+
+* Unity :star::star:
+* Blender 3D :star::star:
 
 ## Administration
 
