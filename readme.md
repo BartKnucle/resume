@@ -40,6 +40,26 @@ Feel free to clone my repositories to check my work.
 * Unity :star::star:
 * Blender 3D :star::star:
 
+## Software developpement
+
+* Javascript
+  * NodeJS :star::star::star:
+  * ECMAScript :star::star::star:
+  * Typescript :star:
+
+* HTML5 :star::star:
+
+* VueJS :star::star::star:
+
+* C# :star::star:
+
+* Git
+  * Github :star::star::star:
+  * Gitlab :star::star::star:
+    * CI/CD :star::star::star:
+
+---
+
 ## Administration
 
 * Linux server 
@@ -64,26 +84,6 @@ Feel free to clone my repositories to check my work.
 * Configuration management
   * SCCM :star::star::star:
   * Ansible :star::star::star:
-
----
-
-## Software developpement
-
-* Javascript
-  * NodeJS :star::star::star:
-  * ECMAScript :star::star::star:
-  * Typescript :star:
-
-* HTML5 :star::star:
-
-* VueJS :star::star::star:
-
-* C# :star::star:
-
-* Git
-  * Github :star::star::star:
-  * Gitlab :star::star::star:
-    * CI/CD :star::star::star:
 
 ---
 
