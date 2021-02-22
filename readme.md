@@ -29,6 +29,7 @@ Feel free to clone my repositories to check my work.
 
 ## Lastest projects
 
+* Developpement of an open source multiplayer game.
 * Developpement of an open source configuration management solution on NodeJS using DevOPS integration in gitlab as infrastructure. (Alpha stage.)
 * Deployement of a SCCM infrastructure to manage 500 servers, 3500 workstations on 62 sites.
 * Replaced a company infrastructure with DevOPS techs.
