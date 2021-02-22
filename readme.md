@@ -74,7 +74,7 @@ Feel free to clone my repositories to check my work.
 
 * VueJS :star::star::star:
 
-* C# :star:
+* C# :star::star:
 
 * Git
   * Github :star::star::star:
